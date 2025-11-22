@@ -26,8 +26,9 @@ function openGame() {
 ---------
 ###### Smash Karts
 
+
 <center>
-<button onclick="openGame()" style="background-color: #FFCCCB; color: #fff; border: 1; border-color: #FFCCCB; vertical-align: center; font-size: 26px; width:100%; cursor: pointer; border-radius: 10px;"> Smash Karts </button>
+<button onclick="openGame()" style="background-color: #FFCCCB; color: #fff; border: 1; border-color: #FFCCCB; vertical-align: center; font-size: 26px; width:100%; cursor: pointer; border-radius: 10px;"> Play </button>
 <script>
 function openGame() {
 	var win = window.open ()
@@ -39,5 +40,7 @@ function openGame() {
 	iframe.src = url
 	win.document.body.appendChild(iframe)
 }
+</script>
+</center>
 </script>
 </center>
