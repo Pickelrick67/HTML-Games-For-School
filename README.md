@@ -16,7 +16,7 @@
 [**Fancade**](fancade.html)
 
 ----------------
-![](eaglercraft-logo.png)
+![](eaglercraft-logo.jpeg)
 [**Eaglercraft 1.8.8**](Eaglercraft.html)
 
 ----------------
