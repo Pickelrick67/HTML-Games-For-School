@@ -3,17 +3,22 @@
 
 ##### Snow Rider 3d, MotoX3m, Smash Karts, and more...
 
-###### Snow Rider 3D
+<center>
+<button onclick="openGame()" style="background-color: #228B22; color: #fff; border: 1; border-color: #228B22; vertical-align: center; font-size: 26px; width:100%; cursor: pointer; border-radius: 10px;"> Snow Rider 3d </button>
+<script>
+function openGame() {
+	var win = window.open ()
+	var url = "https://script.google.com/macros/s/AKfycbw5Z-Ryg_JfIIDYH7pzzPKXlr2tN0HCw-tT_ZvxBGDPsDDY41ewPVneVeLzelfpnBab/exec"
+	var iframe = win.document.createElement('iframe')
+	iframe.style.width = "100%"
+	iframe.style.height = "100%"
+	iframe.style.border = "none"
+	iframe.src = url
+	win.document.body.appendChild(iframe)
+}
+</script>
+</center>
 
-<html>
-  <head>
-    <title>Google</title>
-    <link rel="icon" href="Google.png" type="image/x-icon">
-  </head>
-  <body style="margin: 0px; height: 100vh;">
-    <iframe src="https://script.google.com/macros/s/AKfycbw5Z-Ryg_JfIIDYH7pzzPKXlr2tN0HCw-tT_ZvxBGDPsDDY41ewPVneVeLzelfpnBab/exec" style="border: none; width: 100%; height: 100%; margin: 0px;"></iframe>
-  </body>
-</html>
 
 
 
