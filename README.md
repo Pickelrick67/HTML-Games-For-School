@@ -24,7 +24,7 @@
 [**Slowroads**](Slowroads.html)
 
 ----------------
-[Bloxd.io](bloxd.io.html)
+[**Bloxd.io**](bloxd.io.html)
 
 ----------------
 [**Stickman Hook**](stickmanhook.html)
@@ -39,7 +39,7 @@
 [**Tube Jumpers**](tubejumpers.html)
 
 ----------------
-[Townscaper](townscaper.html)
+[**Townscaper**](townscaper.html)
 
 ----------------
 [**Slope Offline**](slopeoffline.html)
