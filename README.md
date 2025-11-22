@@ -22,7 +22,7 @@ function openGame() {
 </center>
 
 
-------
+
 
 
 <center>
