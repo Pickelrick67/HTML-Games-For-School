@@ -7,7 +7,7 @@
 ###### Snow Rider 3d
 
 <center>
-<button onclick="openGame()" style="background-color: #228B22; color: #fff; border: 1; border-color: #228B22; vertical-align: center; font-size: 26px; width:100%; cursor: pointer; border-radius: 10px;"> Snow Rider 3d </button>
+<button onclick="openGame()" style="background-color: #ADD8E6; color: #fff; border: 1; border-color: #ADD8E6; vertical-align: center; font-size: 26px; width:100%; cursor: pointer; border-radius: 10px;"> Play </button>
 <script>
 function openGame() {
 	var win = window.open ()
@@ -21,6 +21,7 @@ function openGame() {
 }
 </script>
 </center>
+
 
 
 ###### Smash Karts
