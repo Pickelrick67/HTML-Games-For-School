@@ -3,7 +3,6 @@
 
 
 ----------------
-![](snowrider3d.png)
 [**Snow Rider 3d**](snow-rider.html)
 
 ----------------
@@ -16,7 +15,6 @@
 [**Fancade**](fancade.html)
 
 ----------------
-![](eaglercraft-logo.jpeg)
 [**Eaglercraft 1.8.8**](Eaglercraft.html)
 
 ----------------
@@ -29,7 +27,6 @@
 [**Stickman Hook**](stickmanhook.html)
 
 ----------------
-![](gunspin-3.png)
 [**Gunspin**](Gunspin.html)
 
 ----------------
