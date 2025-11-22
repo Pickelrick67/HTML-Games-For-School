@@ -49,3 +49,6 @@
 
 ----------------
 [**Crossy Road**](crossy-road.html)
+
+----------------
+[**Tunnel Rush**](tunnel-rush.html)
