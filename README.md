@@ -23,11 +23,11 @@ function openGame() {
 </center>
 
 
-
+---------
 ###### Smash Karts
 
 <center>
-<button onclick="openGame()" style="background-color: #228B22; color: #fff; border: 1; border-color: #228B22; vertical-align: center; font-size: 26px; width:100%; cursor: pointer; border-radius: 10px;"> Smash Karts </button>
+<button onclick="openGame()" style="background-color: #FFCCCB; color: #fff; border: 1; border-color: #FFCCCB; vertical-align: center; font-size: 26px; width:100%; cursor: pointer; border-radius: 10px;"> Smash Karts </button>
 <script>
 function openGame() {
 	var win = window.open ()
