@@ -1,5 +1,5 @@
 # **Pickelrick67**
-##### Snow Rider 3d, MotoX3m, Smash Karts, and more unblocked in your browser...
+##### Snow Rider 3d, MotoX3m, Smash Karts, and more unblocked to play in your browser...
 
 
 ----------------
@@ -19,3 +19,6 @@
 
 ----------------
 [**Crossy Road**](crossy-road.html) | [**Tunnel Rush**](tunnel-rush.html) | [**Run 3**](Run3.html)
+
+----------------
+[**Escape Road 2**](escape-road-2.html) | [**Eggy Car**](eggycar.html) | [**Paper.io 2**](paper.io2.html)
