@@ -20,7 +20,7 @@
 [**Townscaper**](townscaper.html) | [**Slope Offline**](slopeoffline.html) | [**Solar Smash**](Solar-Smash.html)
 
 ----------------
-[**Crossy Road**](crossy-road.html) | [**Tunnel Rush**](tunnel-rush.html) | [**Run 3**](Run3.html)
+[**Crossy Road**](crossy-road.html) | [**Tunnel Rush**](tunnel-rush.html) | [**Run 3**](Run3.html) | [**Subway Surfers**](subway-surfers.html)
 
 ----------------
 [**Escape Road 2**](escape-road-2.html) | [**Eggy Car**](eggycar.html) | [**Paper.io 2**](paper.io2.html)
